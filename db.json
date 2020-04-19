@@ -1,19 +1,12 @@
 {
     "posts": [
       {
-        "id": 1,
-        "title": "hello",
-        "contents": "something",
-        "iscompleted": false,
-        "image": "",
-        "dateCreated": "4-20-2020"
-
+        
       }
     ],
     "todos": [
       {
-        "id": 1,
-        "title": "hello"
+       
       }
     ],
     "profile": {
